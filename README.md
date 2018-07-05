@@ -1,6 +1,7 @@
 # handlock
 
 # 手势密码demo
+### 造轮子
 
 内容宽高默认为屏幕宽度70%
 ** 手势密码组件 @auth chenzhiwen
