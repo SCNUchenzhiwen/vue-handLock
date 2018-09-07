@@ -5,6 +5,8 @@
 # 效果图
 
 ![效果图](https://github.com/SCNUchenzhiwen/vue-handLock/blob/master/draw.jpg)
+![效果图](https://github.com/SCNUchenzhiwen/vue-handLock/blob/master/error.jpg)
+![效果图](https://github.com/SCNUchenzhiwen/vue-handLock/blob/master/empty.jpg)
 
 ### 造轮子
 
