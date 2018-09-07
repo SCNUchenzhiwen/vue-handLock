@@ -1,6 +1,11 @@
 # handlock
 
 # 手势密码demo
+
+# 效果图
+
+https://github.com/SCNUchenzhiwen/vue-handLock/blob/master/draw.jpg
+
 ### 造轮子
 
 内容宽高默认为屏幕宽度70%
