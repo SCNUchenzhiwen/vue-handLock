@@ -4,7 +4,7 @@
 
 # 效果图
 
-https://github.com/SCNUchenzhiwen/vue-handLock/blob/master/draw.jpg
+![效果图](https://github.com/SCNUchenzhiwen/vue-handLock/blob/master/draw.jpg)
 
 ### 造轮子
 
