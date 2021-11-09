@@ -49,7 +49,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 | 测试表格 | 测试表头 |
-| .... | .... |
+| ----- | ----- |
 | 测试 | 测试 |
 
 | emoji | 表情  |	emoji | 代码  |	commit | 说明 |
