@@ -48,6 +48,10 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
+| 测试表格 | 测试表头 |
+| .... | .... |
+| 测试 | 测试 |
+
 | emoji | 表情  |	emoji | 代码  |	commit | 说明 |
 :art: (调色板)	:art:	改进代码结构/代码格式
 :zap: (闪电)
